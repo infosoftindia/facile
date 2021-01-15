@@ -1,16 +1,18 @@
-## Teodora 🚀
+## Facile 🚀
 
-Teodora is a PHP micro framework mostly used for API development.
+```
+This Project was fetched from Teodora and fully edited to match the requirement of Facile Project
+```
 
-Its use and look is very similar to the Laravel framework.
+Facile is a light weight opensource PHP Shopping CMS which will always be free for everyone and will never charge anything for using it.
 
-The initial purpose of Teodora was to create a PHP framework and then make a course out of it and teach developers all around the world, how to create a PHP framework from scratch.
+The initial purpose of Facile was to create a light weight opensource PHP Shopping CMS and then make it publicly available for free under MIT lisence.
 
-You can buy the course from [here](https://screencasts.dev).
+---
 
-- [Docs](https://teodora.dev)
+### Credit
+
+- [Teodora](https://teodora.dev)
 - [Devlob](https://devlob.com)
 - [Screencasts](https://screencasts.dev)
 - [Blog](https://screencasts.dev/blog)
----
-- [Buy course](https://screencasts.dev)
