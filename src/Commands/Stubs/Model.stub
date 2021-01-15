@@ -1,0 +1,9 @@
+<?php
+
+namespace App;
+
+use Facile\Database\Goku\Model;
+
+class {{class}} extends Model
+{
+}

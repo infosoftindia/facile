@@ -1,0 +1,27 @@
+{
+  "name": "infosoftindia/facile",
+  "description": "A light weight opensource PHP Shopping CMS.",
+  "keywords": [
+    "cart",
+    "opensource",
+    "facile",
+    "infosoftindia",
+    "shopping cart"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Prashant Rijal",
+      "email": "me@prashantrijal.com.np"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Facile\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
